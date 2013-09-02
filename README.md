@@ -11,6 +11,7 @@ Then, a new unvisited point is retrieved and processed, leading to the discovery
 
 PSEUDOCODE
 -------------------------------------
+Reference: http://en.wikipedia.org/wiki/DBSCAN
 
 ```
 DBSCAN(D, eps, MinPts)
